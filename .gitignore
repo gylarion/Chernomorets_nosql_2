@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+*.pyc
+data/
+embeddings/
+arxiv-metadata-oai-snapshot.json
+arxiv.zip
